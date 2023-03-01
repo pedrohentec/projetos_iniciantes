@@ -1,3 +1,5 @@
+# Neste projeto a ideia era construir um editor de texto semelhante ao Bloco de Notas utilizando o tkinter e colocar algumas fontes. A ideia é também fazer alterações e personalizar cada vez mais o mesmo melhorando e acrescentando cada mais conteudos como fontes, tamanho e definições de formatação.
+
 from tkinter import *
 import tkinter as tk
 
